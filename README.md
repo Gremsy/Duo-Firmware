@@ -1,5 +1,5 @@
-# Duo-Firmware
-Gremsy Duo payload firmware
+# Vio-Firmware
+Gremsy Vio payload firmware
 
 # What's new?
 
